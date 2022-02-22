@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\bin\Debug\net5.0\DiamanteMelhorado.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\bin\Debug\net5.0\DiamanteMelhorado.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\bin\Debug\net5.0\DiamanteMelhorado.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\bin\Debug\net5.0\DiamanteMelhorado.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\bin\Debug\net5.0\DiamanteMelhorado.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\bin\Debug\net5.0\ref\DiamanteMelhorado.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\bin\Debug\net5.0\DiamanteMelhorado.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\obj\Debug\net5.0\DiamanteMelhorado.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\obj\Debug\net5.0\DiamanteMelhorado.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\obj\Debug\net5.0\DiamanteMelhorado.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\obj\Debug\net5.0\DiamanteMelhorado.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\obj\Debug\net5.0\DiamanteMelhorado.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\obj\Debug\net5.0\ref\DiamanteMelhorado.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\obj\Debug\net5.0\DiamanteMelhorado.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\obj\Debug\net5.0\DiamanteMelhorado.ConsoleApp.genruntimeconfig.cache
+C:\Users\Carlos Daniel\source\repos\MelhoramentoDiamante\DiamanteMelhorado\DiamanteMelhorado.ConsoleApp\obj\Debug\net5.0\DiamanteMelhorado.ConsoleApp.csproj.AssemblyReference.cache
